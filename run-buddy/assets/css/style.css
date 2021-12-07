@@ -18,8 +18,8 @@ header a {
   text-decoration: none;
 }
 header nav {
-  float: right;
   margin: 7px 0;
+  float: right;
 }
 
 header nav ul li {
@@ -35,7 +35,7 @@ header h1 {
   font-size: 36px;
   color: #fce138;
   margin: 0;
-  display: inline;
+  float: inline;
 }
 footer {
   background: #fce138;
